@@ -5,9 +5,11 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 # Tools and Technologies:
 - **MySQL**: Used for data extraction, transformation, and analysis.
 - **Power BI**: Utilized for creating interactive dashboards and visualizing the data insights.
+# Dashboard Images
 ![Dashboard_Page1](https://github.com/user-attachments/assets/4ca8e41d-5f28-4ed2-9e66-dd56015abdbd)
 ![Dashboard_Page2](https://github.com/user-attachments/assets/73b55d56-8bd1-49a5-a12a-d13e1c871405)
 ![Dashboard_Page3](https://github.com/user-attachments/assets/d8cf218d-b118-444b-a225-e5c996ca46fe)
 
-
+# Conclusion: 
+This project was built using MySQL and Power BI, providing real-time, actionable insights. It enables hotel management to make informed decisions, optimize pricing strategies, and improve occupancy rates across their properties.
 
